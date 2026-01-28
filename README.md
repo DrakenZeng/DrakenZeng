@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Web3**
 
-💬 Ask me about **Java, Docker, DEVOPS... or anything [here](https://github.com/Darkells/DrakenZeng/pulls)**
+💬 Ask me about **Java, Docker, DEVOPS... or anything [here](https://github.com/DrakenZeng/DrakenZeng/pulls)**
 
 ⚡ I'm actively looking for **remote job**
 
